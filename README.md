@@ -1,16 +1,12 @@
-# 💫 About Me
+# 👋 Hi there! I’m Omar
 
-👋 Hi there! I’m **Omar Guillermo Aquino Mena**, a passionate software developer specializing in backend technologies, with experience in building full stack applications.
+Passionate software developer that specialize in backend, with some experience building full stack applications.
 
 - 💻 I’m deeply interested in technology and enjoy exploring various aspects of the tech world through my projects and continuous learning.
-- 🥋 Outside of coding, I practice Brazilian Jiu-Jitsu (BJJ) and Taekwondo. Martial arts play a significant role in my life, influencing my approach to challenges and personal growth.
+- 🥋 Outside of coding, I practice Taekwondo and Brazilian Jiu-Jitsu (BJJ). Martial arts play a significant role in my life, influencing my approach to challenges and personal growth.
 - 🎨 I’m an anime enthusiast and appreciate the rich culture behind it.
 - 🎵 My music tastes range from Anglo rap to jazz.
 - ⚡ Fun fact: The music I listen to while programming varies depending on the task at hand, reflecting my diverse musical interests.
-
-<div align="center">
-  [![Visit Count](https://visitcount.itsvg.in/api?id=guilleaqn&icon=1&color=0)](https://visitcount.itsvg.in)
-</div>
 
 ## 💻 Tech Stack
 
@@ -54,11 +50,13 @@
 
 ## 📊 My Stats
 
-<div align="center" justify-content="space-evenly">
+<div align="center" >
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilleaqn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+  &nbsp;
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilleaqn&theme=tokyonight&hide_border=false)
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilleaqn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilleaqn&theme=tokyonight&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilleaqn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![Trophies](https://github-profile-trophy.vercel.app/?username=guilleaqn&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilleaqn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=guilleaqn&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
   
 </div>
