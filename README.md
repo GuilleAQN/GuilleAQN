@@ -3,7 +3,7 @@
 Passionate software developer that specialize in backend, with some experience building full stack applications.
 
 - 💻 I’m deeply interested in technology and enjoy exploring various aspects of the tech world through my projects and continuous learning.
-- 🥋 Outside of coding, I practice Taekwondo and Brazilian Jiu-Jitsu (BJJ). Martial arts play a significant role in my life, influencing my approach to challenges and personal growth.
+- 🥋 Outside of coding, I practice Taekwondo (ITF). Martial arts play a significant role in my life, influencing my approach to challenges and personal growth.
 - 🎨 I’m an anime enthusiast and appreciate the rich culture behind it.
 - 🎵 My music tastes range from Anglo rap to jazz.
 - ⚡ Fun fact: The music I listen to while programming varies depending on the task at hand, reflecting my diverse musical interests.
