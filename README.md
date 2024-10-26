@@ -52,8 +52,6 @@ Passionate software developer that specialize in backend, with some experience b
 <div align="center" >
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilleaqn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guilleaqn&theme=tokyonight&hide_border=false)
-  <br/>
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilleaqn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
   
 </div>
